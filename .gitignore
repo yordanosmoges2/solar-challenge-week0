@@ -1,0 +1,19 @@
+venv/
+__pycache__/
+.ipynb_checkpoints/
+data/
+*.csv
+*.log
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Data
+data/
+*.csv
+*.ipynb_checkpoints/
+
+# VSCode
+.vscode/
+
